@@ -1,0 +1,64 @@
+- Starting items: 54, 53
+  Operation:
+    type: m
+    value: 3
+  Test: 
+    value: 2
+    true: 2
+    false: 6
+- Starting items: 95, 88, 75, 81, 91, 67, 65, 84
+  Operation: 
+    type: m
+    value: 11
+  Test: 
+    value: 7
+    true: 3
+    false: 4
+- Starting items: 76, 81, 50, 93, 96, 81, 83
+  Operation:
+    type: a
+    value: 6
+  Test: 
+    value: 3
+    true: 5
+    false: 1
+- Starting items: 83, 85, 85, 63
+  Operation:
+    type: a
+    value: 4
+  Test: 
+    value: 11
+    true: 7
+    false: 4
+- Starting items: 85, 52, 64
+  Operation:
+    type: a
+    value: 8
+  Test: 
+    value: 17
+    true: 0
+    false: 7
+- Starting items: 57
+  Operation:
+    type: a
+    value: 2
+  Test: 
+    value: 5
+    true: 1
+    false: 3
+- Starting items: 60, 95, 76, 66, 91
+  Operation: 
+    type: m
+    value: old
+  Test: 
+    value: 13
+    true: 2
+    false: 5
+- Starting items: 65, 84, 76, 72, 79, 65
+  Operation:
+    type: a
+    value: 5
+  Test: 
+    value: 19
+    true: 6
+    false: 0

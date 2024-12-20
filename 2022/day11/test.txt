@@ -1,0 +1,32 @@
+- Starting items: 79, 98
+  Operation:
+    type: m
+    value: 19
+  Test:
+    value: 23
+    true: 2
+    false: 3
+- Starting items: 54, 65, 75, 74
+  Operation:
+    type: a
+    value: 6
+  Test:
+    value: 19
+    true: 2
+    false: 0
+- Starting items: 79, 60, 97
+  Operation:
+    type: m
+    value: old
+  Test:
+    value: 13
+    true: 1
+    false: 3
+- Starting items: 74
+  Operation:
+    type: a
+    value: 3
+  Test:
+    value: 17
+    true: 0
+    false: 1
